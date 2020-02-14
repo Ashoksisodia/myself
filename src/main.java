@@ -8,6 +8,7 @@ class Test{
         Node n3=new Node(30);
         obj.insert(n2);
         obj.insert(n3);
+        // new node created
         Node n4=new Node(40);
         obj.insert(n4);
         obj.display();
